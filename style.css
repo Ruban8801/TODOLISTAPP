@@ -1,0 +1,23 @@
+*{
+    border:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.7;
+}
+h1{
+    text-decoration-line: 1px solid border;
+
+
+}
+.wrapper{
+    max-width:960px;
+    padding:0 24px;
+    margin:0 auto;
+}
+p{
+    border-bottom: 1px solid black;
+}
